@@ -1,0 +1,18 @@
+#box1{
+    border-radius:25px;
+    background-color:black;
+    border-width:;
+    border-bottom: 50px;
+    border: right 5px; ;
+    border: top 10px;
+    border-style: hidden;
+    color: white;
+    text-align: center;
+    text-shadow:green;
+    animation: stylem 5s running  infinite linear;
+
+    @keyframes stylem {
+        from{left 100%}
+        to{left 0%}
+    }
+}
